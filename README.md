@@ -27,7 +27,7 @@ For simplicity, I added an optional docker-compose File, which sets up MySQL and
 
 1. Make sure Docker is running.
 2. Open CMD or Terminal inside the project
-3. Enter: ```docker-compose up```
+3. Enter: ```docker-compose up -d```
 
 (To shut down the Container, enter: ```docker-compose down```)
 
