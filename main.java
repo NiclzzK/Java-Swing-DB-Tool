@@ -7,8 +7,6 @@ import java.sql.*;
  *
  * Simple Java Swing MySQL Database Application
  * Contains Methods for Creating, Filling, Reading and Deleting a Database
- * 
- * Requires MySQL Connector/J from https://dev.mysql.com/downloads/connector/j/
  *
  * @version 1.0 vom 14.09.2022
  * @author NiclzzK
